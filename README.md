@@ -1,4 +1,4 @@
-# special-padmavathi
+# Padmavathi
 <h1 align="center">Hi 👋, I'm Python Data Science</h1>
 <h3 align="center">A Data Insight Viewer and Solutioner</h3>
 
